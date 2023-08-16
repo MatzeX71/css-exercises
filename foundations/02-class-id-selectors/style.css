@@ -1,11 +1,10 @@
 p {
-    background-color: rgb(252, 24, 81);
+    background-color: rgb(236, 170, 186);
     font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
 p#three {
     font-size: 24px;
-    font-weight: bold;
 }
 
 #two {
